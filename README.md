@@ -96,7 +96,7 @@ Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate
   <a href="mailto:karthic2914@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.designsforge.com">
+  <a href="https://www.devndespro.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
