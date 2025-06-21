@@ -26,8 +26,6 @@ Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate
 🛠 Proficient in React, Next.js, Angular, Node.js, Express, Firebase, PostgreSQL, Docker, Ansible, and cloud platforms.  
 🎯 Available for freelance, contract, or full-time roles in frontend, backend, full-stack, or DevOps engineering.
 
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -53,12 +51,12 @@ Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate
 **DevOps & Tools**
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
 ---
@@ -79,8 +77,8 @@ Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate
 
 | 💼 Project | 📝 Description | ⏳ Status | 🛠 Tech Stack |
 |-----------|----------------|-----------|----------------|
-| [Dezinovate](https://github.com/karthic2914/dezinovate) | AI-powered UI/UX layout generator | 🚧 In Progress | React, Firebase, FastAPI |
-| [MoodMosaic](https://github.com/karthic2914/moodmosaic) | Mood tracker with visual insights | 🚧 In Progress | React, Recharts, Firebase |
+| [Dezinovate](https://github.com/karthic2914/dezinovate) | AI-powered UI/UX layout generator | 🔬 MVP Development | React, Firebase, FastAPI |
+| [MoodMosaic](https://github.com/karthic2914/moodmosaic) | Mood tracker with visual insights | 🧪 Beta Prototype | React, Recharts, Firebase |
 | [Devndespro](https://www.devndespro.com) | Personal portfolio & design hub | ✅ Live | Next.js, Tailwind CSS |
 
 > 🧠 *More open-source ideas coming soon!*
