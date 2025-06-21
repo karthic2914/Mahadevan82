@@ -22,10 +22,12 @@ Crafting performant, accessible, and user-focused digital experiences.
 
 ## 📖 About Me
 
-💼 18+ years in full-stack development, UI/UX design, and agile product delivery.  
+💼 18+ years of experience in full-stack development, UI/UX design, DevOps, and agile product delivery.  
 🌍 Based in Oslo, Norway — open to relocation across Europe.  
-🚀 Passionate about clean code, beautiful design, and building impactful tools.  
-🎯 Available for freelance, contract, or full-time frontend/product roles.
+🚀 Passionate about clean code, intuitive interfaces, scalable systems, and automation.  
+🛠 Proficient in React, Next.js, Angular, Firebase, Docker, Ansible, and cloud platforms.  
+🎯 Available for freelance, contract, or full-time roles in frontend, full-stack, or DevOps engineering.  
+
 
 ---
 
