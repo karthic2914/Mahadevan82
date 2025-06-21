@@ -54,6 +54,9 @@ Crafting performant, accessible, and user-focused digital experiences.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
