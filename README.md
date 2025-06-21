@@ -81,7 +81,7 @@ Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate
 |-----------|----------------|-----------|----------------|
 | [Dezinovate](https://github.com/karthic2914/dezinovate) | AI-powered UI/UX layout generator | 🚧 In Progress | React, Firebase, FastAPI |
 | [MoodMosaic](https://github.com/karthic2914/moodmosaic) | Mood tracker with visual insights | 🚧 In Progress | React, Recharts, Firebase |
-| [DesignsForge](https://www.designsforge.com) | Personal portfolio & design hub | ✅ Live | Next.js, Tailwind CSS |
+| [Devndespro](https://www.devndespro.com) | Personal portfolio & design hub | ✅ Live | Next.js, Tailwind CSS |
 
 > 🧠 *More open-source ideas coming soon!*
 
