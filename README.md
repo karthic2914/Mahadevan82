@@ -35,6 +35,8 @@ Crafting performant, accessible, and user-focused digital experiences.
 <p>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
 </p>
