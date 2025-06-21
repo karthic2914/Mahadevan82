@@ -1,9 +1,7 @@
-<h1 align="center">🔥 Hi, I'm Mahadevan</h1>
+<h1 align="center">🔥 Full Stack Visionary | UX Craftsman | DevOps Automator</h1>
 
 <p align="center">
-🌐 Full Stack Engineer • 🎨 UI/UX Designer • ☁️ DevOps Enthusiast  
-<br/>
-Crafting performant, accessible, and user-focused digital experiences.
+Hi, I'm Mahadevan. I create beautiful UIs, build powerful backends, and automate workflows — all to deliver digital products that matter.
 </p>
 
 ---
@@ -22,11 +20,12 @@ Crafting performant, accessible, and user-focused digital experiences.
 
 ## 📖 About Me
 
-💼 18+ years of experience in full-stack development, UI/UX design, DevOps, and agile product delivery.  
+💼 18+ years of experience in full-stack development, UI/UX design, backend architecture, DevOps, and agile product delivery.  
 🌍 Based in Oslo, Norway — open to relocation across Europe.  
-🚀 Passionate about clean code, intuitive interfaces, scalable systems, and automation.  
-🛠 Proficient in React, Next.js, Angular, Firebase, Docker, Ansible, and cloud platforms.  
-🎯 Available for freelance, contract, or full-time roles in frontend, full-stack, or DevOps engineering.  
+🚀 Passionate about clean code, intuitive interfaces, scalable APIs, and intelligent automation.  
+🛠 Proficient in React, Next.js, Angular, Node.js, Express, Firebase, PostgreSQL, Docker, Ansible, and cloud platforms.  
+🎯 Available for freelance, contract, or full-time roles in frontend, backend, full-stack, or DevOps engineering.
+
 
 
 ---
