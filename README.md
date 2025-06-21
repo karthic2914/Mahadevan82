@@ -1,41 +1,53 @@
 <h1 align="center">🔥 Hi, I'm Mahadevan</h1>
 
 <p align="center">
-🌐 Full Stack Engineer | 🎨 UI/UX Designer | ☁️ DevOps Enthusiast <br/>
-🔧 Building scalable web apps with performance, accessibility, and user experience in mind.
+🌐 Full Stack Engineer • 🎨 UI/UX Designer • ☁️ DevOps Enthusiast  
+<br/>
+Crafting performant, accessible, and user-focused digital experiences.
 </p>
 
 ---
 
-## 🚀 About Me
+### 📌 Quick Links
 
-- 💻 18+ years of experience in tech, from frontend finesse to backend logic.
-- 🎯 Specializing in crafting modern, responsive UIs with deep attention to user experience.
-- 📚 Passionate about learning emerging tools like AI, DevOps, and cloud platforms.
-- 🔍 Currently open to full-time and freelance roles in frontend, full stack, or product design.
-- 📍 Based in Oslo, Norway | 🇳🇴 Ready to relocate across Europe.
+<p align="center">
+  <a href="#-about-me">About</a> • 
+  <a href="#-tech-stack">Tech Stack</a> • 
+  <a href="#-github-stats">GitHub Stats</a> • 
+  <a href="#-featured-projects">Projects</a> • 
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+---
+
+## 📖 About Me
+
+💼 18+ years in full-stack development, UI/UX design, and agile product delivery.  
+🌍 Based in Oslo, Norway — open to relocation across Europe.  
+🚀 Passionate about clean code, beautiful design, and building impactful tools.  
+🎯 Available for freelance, contract, or full-time frontend/product roles.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:**
+**Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
 </p>
 
-**Backend:**
+**Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 </p>
 
-**Tools & DevOps:**
+**DevOps & Tools**
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops" />
@@ -48,39 +60,43 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthic2914&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthic2914&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=karthic2914&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=karthic2914&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthic2914&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthic2914&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧰 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Status | Tech Stack |
-|--------|-------------|--------|------------|
-| [Dezinovate](https://github.com/karthic2914/dezinovate) | AI-powered creative assistant for UI/UX code generation | 🚧 In Progress | React, Tailwind, Firebase, FastAPI |
-| [MoodMosaic](https://github.com/karthic2914/moodmosaic) | Mood tracker with charts, analytics & mood insights | 🚧 In Progress | React, Recharts, Firebase |
-| [DesignsForge](https://www.designsforge.com) | Personal brand and creative portfolio website | ✅ Live | Next.js, Tailwind CSS |
+| 💼 Project | 📝 Description | ⏳ Status | 🛠 Tech Stack |
+|-----------|----------------|-----------|----------------|
+| [Dezinovate](https://github.com/karthic2914/dezinovate) | AI-powered UI/UX layout generator | 🚧 In Progress | React, Firebase, FastAPI |
+| [MoodMosaic](https://github.com/karthic2914/moodmosaic) | Mood tracker with visual insights | 🚧 In Progress | React, Recharts, Firebase |
+| [DesignsForge](https://www.designsforge.com) | Personal portfolio & design hub | ✅ Live | Next.js, Tailwind CSS |
+
+> 🧠 *More open-source ideas coming soon!*
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skmahadevan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:karthic2914@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.designsforge.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Let’s build something meaningful together ✨</p>
+<p align="center">
+  <b>✨ Let's collaborate and build something meaningful! ✨</b>
+</p>
